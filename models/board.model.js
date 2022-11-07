@@ -1,5 +1,5 @@
 const { DataTypes, Model } = require('sequelize')
-const { User } = require('.')
+//const { User } = require('./user.model')
 const db = require('../db/db')
 
 class Board extends Model {}
